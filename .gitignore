@@ -1,0 +1,27 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary Files
+*.tmp
+*.log
+
+# Personal Information
+drafts/
+private/
+
+# Build files
+_site/
+.jekyll-cache/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
